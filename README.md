@@ -26,5 +26,4 @@ Added SHAP
 •
 Added LIME
 Running
-1.
-Set paths for tumor and non-tumor images in TUMOR_DIR and NON_TUMOR_DIR.
+1.Set paths for tumor and non-tumor images in TUMOR_DIR and NON_TUMOR_DIR.
